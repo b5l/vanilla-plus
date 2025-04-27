@@ -1,0 +1,12 @@
+name = "Family"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1134da646f23701d84977122ed69a98293f2a7bf8d436bf3a3ca22f8f55243a7"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"
