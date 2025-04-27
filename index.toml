@@ -31,11 +31,6 @@ hash = "b76a42634708684b630a18fb517239a3b6c2a4b545dab3c740bdd6ea5bf27884"
 metafile = true
 
 [[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "fe90b5b763e79ec0f0a7749ffec515b8cfe679192da157753ead2bbcf7c4670e"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
 metafile = true
