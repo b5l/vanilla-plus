@@ -41,6 +41,11 @@ hash = "287209b1b1b7c27f11f59ef3eda5fb5f4431aa6b51701870a426c0b39da74fce"
 metafile = true
 
 [[files]]
+file = "mods/craft-saddle.pw.toml"
+hash = "68684898a2ff2e027131ef2d83f8a19f90fcc8f6712ee905c63c716a0f6521ce"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
 metafile = true
@@ -62,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d2911a01cf69b6e08412bb220a29b1639d2e871e2bc39d6845a443cbe2ae7eb5"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
