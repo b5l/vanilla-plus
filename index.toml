@@ -26,6 +26,11 @@ hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b76a42634708684b630a18fb517239a3b6c2a4b545dab3c740bdd6ea5bf27884"
 metafile = true
