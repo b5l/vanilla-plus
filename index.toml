@@ -146,11 +146,6 @@ hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "caa00b2ff8eee3d116675688abaf7aeb171591136ce30dd36134e0a895751386"
-metafile = true
-
-[[files]]
 file = "mods/polymer.pw.toml"
 hash = "a7853520827e13319c1b828ea1434bbccc5b6b3719c30f2511d7cadfddad7df9"
 metafile = true
