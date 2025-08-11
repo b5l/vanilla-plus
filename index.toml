@@ -42,12 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "287209b1b1b7c27f11f59ef3eda5fb5f4431aa6b51701870a426c0b39da74fce"
-metafile = true
-
-[[files]]
-file = "mods/craft-saddle.pw.toml"
-hash = "68684898a2ff2e027131ef2d83f8a19f90fcc8f6712ee905c63c716a0f6521ce"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
@@ -208,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "18dd7240eb6cbeb69f31033ef45960e219c6a7abded9912423837ecaab1a3ddb"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "97c03a61e2588e1e05531e6f1198153af50d31d6d4aafce82adf90dbddb4ef97"
 metafile = true
 
 [[files]]
