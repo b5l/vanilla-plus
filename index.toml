@@ -161,11 +161,6 @@ hash = "de1498c79d273e662b36414ccd2716c1b904d70347df613bf6e8d09d3f52123f"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-soundphysics.pw.toml"
-hash = "3a74619a6bffdff64959073e38393bed1c79ccee30b87e4d88f018ae0c2efa04"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
