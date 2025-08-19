@@ -46,6 +46,11 @@ hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "c517129177837ec4233f97e5fecc3bb6c3a2549a3b2a0f935a2798aa58d328ab"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
 metafile = true
