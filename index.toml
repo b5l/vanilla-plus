@@ -214,3 +214,28 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "4b3b0e50c1eebdecc77103f161f74a7b000bc3b9a1fa46a07155198890545b4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-food.pw.toml"
+hash = "960ef50e9c4120734d3eca81a24c29c32167f61bb8099258dffa5a0ba5fd707f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-skeleton-physics.pw.toml"
+hash = "53ca6e2a97836a999c482c8a1cfdaa255547f7eb4c9dc33848f43075f18ded76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-textures.pw.toml"
+hash = "8a92d882cb70e7b99f2a8aae9f20da71131b5f659c7b18395d0c5398e8156c00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "12fd1842c7d4f3326193f5b589cec3a6ca34ea48a4330af1e033e21caecb39cf"
+metafile = true
