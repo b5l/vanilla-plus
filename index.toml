@@ -21,6 +21,16 @@ hash = "0fb3ed7eaa615380d4d7844f0225f4ec4a6509cdfe01920387ed7b2bd923e4d7"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "40886617a6f2dbc6b8aa9d3ad1237c65f09cafd454ba6bc99c73cbfe21846a9a"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "b84325343c5cd6c714a820b07b350414aa017e39fc3403b4962d87ef1911dfed"
+metafile = true
+
+[[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "70f993815a2f25bf7d6f57e64209f51c508853e74bdc8fb4b7709e5c1887956e"
 metafile = true
 
 [[files]]
