@@ -41,6 +41,11 @@ hash = "950139b43bd4634848c39bbe340b2b69a096ddf856080e75cd4ef96899d04a71"
 metafile = true
 
 [[files]]
+file = "mods/boids.pw.toml"
+hash = "f5d8ac227945b24d2e325e2d83e1c6760e5b070e4d29c3e76a3d692a5c36c66a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
