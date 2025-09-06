@@ -41,13 +41,18 @@ hash = "b76a42634708684b630a18fb517239a3b6c2a4b545dab3c740bdd6ea5bf27884"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "551f129304b9ab19d4c199e70ea5913dda245fe368985c5128a08d94b573a4ab"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "287209b1b1b7c27f11f59ef3eda5fb5f4431aa6b51701870a426c0b39da74fce"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
