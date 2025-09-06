@@ -1,0 +1,13 @@
+name = "EasyAuth"
+filename = "easyauth-mc1.21.5-3.3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/aZj58GfX/versions/GMQumqqr/easyauth-mc1.21.5-3.3.6.jar"
+hash-format = "sha512"
+hash = "c583ae0cc0762307f7c343d18bab824b23016608767809b675413901489f4afedbf45d6aadd766ae800adfc08cb67511086ebda1e232cf193d09f58970203a1a"
+
+[update]
+[update.modrinth]
+mod-id = "aZj58GfX"
+version = "GMQumqqr"
