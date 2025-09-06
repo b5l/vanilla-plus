@@ -21,6 +21,11 @@ hash = "f3cc395cc784c7dd37910c6d3665eb3cb01606d1d4d50599f22fb400416e0d0c"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "5e9822859ed668771ec09d9156ba45223cac8b0c1bfaeaa38fde319016cff113"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "4748eafc31b9dff3d3048259aaa50ead8d09db4c2975c4a60dc5ec5ed4c528df"
 metafile = true
 
 [[files]]
